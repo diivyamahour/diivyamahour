@@ -1,4 +1,4 @@
-<!--# Hi, I'm Divya Mahour 👋
+Hi, I'm Divya Mahour 👋
 
 I'm currently pursuing an MCA with a focus on Software Development.
 
